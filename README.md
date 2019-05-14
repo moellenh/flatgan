@@ -3,6 +3,7 @@ Flat Metric Minimization
 This repo contains a minimal PyTorch implementation to reproduce Fig. 6 and Fig. 7 from the paper:
 
 *Flat Metric Minimization with Applications in Generative Modeling* (Thomas Möllenhoff, Daniel Cremers; ICML 2019).
+https://arxiv.org/abs/1905.04730
 
 Notes
 -------------------
@@ -41,5 +42,6 @@ Publication
     author={Thomas Möllenhoff, Daniel Cremers},
     journal={International Conference on Machine Learning},
     year={2019},
+    url={https://arxiv.org/abs/1905.04730}
 }
 ```
