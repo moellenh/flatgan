@@ -30,7 +30,7 @@ python demo_2d.py --k 1
 python demo_mnist.py 
 ```
 
-<img src="figures/dilate_it_50000.png" width="150"> <img src="figures/rotate_it_50000.png" width="150">
+<img src="figures/rotate_it_50000.png" width="300"> <img src="figures/dilate_it_50000.png" width="300"> 
 
 
 Publication
